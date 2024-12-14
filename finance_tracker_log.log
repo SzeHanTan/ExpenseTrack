@@ -1,0 +1,32 @@
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI createPieChart
+INFO: Creating Pie Chart...
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Updating Pie Chart data...
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Income: 0.0
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Total Expense: 0.0
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Income Percentage: NaN%
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI updatePieChartData
+INFO: Expense Percentage: NaN%
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI createPieChart
+INFO: Pie Chart created successfully.
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI start
+INFO: FinanceTrackerGUI application started successfully.
+Dec 14, 2024 5:18:23 PM FinanceTracker.FinanceTrackerGUI start
+WARNING: Data file is empty or does not exist. Starting the application without data.
+Dec 14, 2024 5:18:25 PM FinanceTracker.FinanceTrackerGUI showWarningDialog
+WARNING: Warning dialog displayed: Data file is empty or does not exist.
+Dec 14, 2024 5:18:25 PM FinanceTracker.FinanceTrackerGUI createMenuBar
+INFO: Creating Menu Bar...
+Dec 14, 2024 5:18:25 PM FinanceTracker.FinanceTrackerGUI createMenuBar
+INFO: Menu Bar created successfully.
+Dec 14, 2024 5:18:25 PM FinanceTracker.FinanceTrackerGUI createTransactionTable
+INFO: Creating Transaction Table...
+Dec 14, 2024 5:18:25 PM FinanceTracker.FinanceTrackerGUI createTransactionTable
+INFO: Transaction Table created successfully.
+Dec 14, 2024 5:18:26 PM FinanceTracker.FinanceTrackerGUI showWarningDialog
+WARNING: Warning dialog displayed: Data file is empty or does not exist.
+Dec 14, 2024 5:18:26 PM FinanceTracker.FinanceTrackerGUI lambda$21
+INFO: Transaction table width changed. Setting column visibility...
